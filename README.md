@@ -13,9 +13,14 @@ project_sales/
 
 
 ├── data/
-│   ├── initial.csv       # Raw generated dataset
-│   ├── final.csv         # Dataset with calculated metrics
-│   └── output.csv        # Pivot tables and summaries
+
+│     ├── initial.csv       # Raw generated dataset
+
+│     ├── final.csv         # Dataset with calculated metrics
+
+│     └── output.csv        # Pivot tables and summaries
+
+
 └── requirements.txt      # Project dependencies
 
 
