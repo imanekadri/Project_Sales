@@ -62,20 +62,20 @@ project_sales/
 - Identify peak sales months and best-performing quarters.
 - Provide data-driven insights to support marketing, inventory, and sales strategy.
 
-##Screenshots
-Line Chart
+### Screenshots
+## Line Chart
 <img width="850" height="470" alt="image" src="https://github.com/user-attachments/assets/6717ac2f-b015-4c43-a769-71dd1088be22" />
 
-Stacked Bar Chart
+## Stacked Bar Chart
 <img width="1023" height="646" alt="image" src="https://github.com/user-attachments/assets/d0eeb121-fbed-4e1f-80d1-03360a526617" />
 
-Heatmap
+## Heatmap
 <img width="904" height="547" alt="Heatmap" src="https://github.com/user-attachments/assets/c38e116c-93bd-4a05-8c0f-381b61da542d" /> 
 
-Boxplot
+## Boxplot
 <img width="695" height="528" alt="Boxplot" src="https://github.com/user-attachments/assets/7c3ae384-8cd2-4c42-8430-cc03558a2758" />
 
-##Output Files
+### Output Files
 
 initial.csv – raw generated sales data.
 
@@ -83,7 +83,7 @@ final.csv – data with metrics added.
 
 output.csv – pivot tables for analysis.
 
-##Install required libraries:
+### Install required libraries:
 
 pip install -r requirements.txt
 
@@ -95,13 +95,9 @@ Run all cells to generate data, compute metrics, create pivot tables, and visual
 ## How to Run
 1. Clone the repository:
 ```bash
+
 git clone https://github.com/yourusername/project_sales.git
 pip install -r requirements.txt
-
-
-
- 
-
  
  
  
