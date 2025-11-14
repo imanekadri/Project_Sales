@@ -5,16 +5,14 @@ This project simulates a real-world business scenario where monthly sales data f
 
 ## Project Structure
 project_sales/
- 
+
 │
 ├── notebook.ipynb        # Main Jupyter notebook with all analysis and visualizations
 ├── utils.py              # Functions for data generation
-│
 ├── data/
 │   ├── initial.csv       # Raw generated dataset
 │   ├── final.csv         # Dataset with calculated metrics
 │   └── output.csv        # Pivot tables and summaries
-│
 └── requirements.txt      # Project dependencies
 
 
