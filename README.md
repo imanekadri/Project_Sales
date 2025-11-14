@@ -62,21 +62,20 @@ project_sales/
 - Identify peak sales months and best-performing quarters.
 - Provide data-driven insights to support marketing, inventory, and sales strategy.
 
-## How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/project_sales.git
+##Screenshots
+Line Chart
+<img width="850" height="470" alt="image" src="https://github.com/user-attachments/assets/6717ac2f-b015-4c43-a769-71dd1088be22" />
 
+Stacked Bar Chart
+<img width="1023" height="646" alt="image" src="https://github.com/user-attachments/assets/d0eeb121-fbed-4e1f-80d1-03360a526617" />
 
-2.Install required libraries:
+Heatmap
+<img width="904" height="547" alt="Heatmap" src="https://github.com/user-attachments/assets/c38e116c-93bd-4a05-8c0f-381b61da542d" /> 
 
-pip install -r requirements.txt
+Boxplot
+<img width="695" height="528" alt="Boxplot" src="https://github.com/user-attachments/assets/7c3ae384-8cd2-4c42-8430-cc03558a2758" />
 
-Open notebook.ipynb in Jupyter Notebook or VSCode.
-
-Run all cells to generate data, compute metrics, create pivot tables, and visualize results.
-
-Output Files
+##Output Files
 
 initial.csv – raw generated sales data.
 
@@ -84,12 +83,25 @@ final.csv – data with metrics added.
 
 output.csv – pivot tables for analysis.
 
-Screenshots
-Line Chart
-<img width="850" height="470" alt="Line Chart" src="https://github.com/user-attachments/assets/e70a711d-4a44-4d7e-b5d7-45a6f94ed0a0" /> <p align="center">Monthly sales trend per product</p>
-Stacked Bar Chart
-<img width="1023" height="646" alt="Stacked Bar Chart" src="https://github.com/user-attachments/assets/4ab28820-2502-473f-a46c-0ca923e08edb" /> <p align="center">Total monthly sales by product</p>
-Heatmap
-<img width="904" height="547" alt="Heatmap" src="https://github.com/user-attachments/assets/c38e116c-93bd-4a05-8c0f-381b61da542d" /> <p align="center">Monthly sales heatmap per product</p>
-Boxplot
-<img width="695" height="528" alt="Boxplot" src="https://github.com/user-attachments/assets/7c3ae384-8cd2-4c42-8430-cc03558a2758" /> <p align="center">Sales distribution per product</p>
+##Install required libraries:
+
+pip install -r requirements.txt
+
+Open notebook.ipynb in Jupyter Notebook or VSCode.
+
+Run all cells to generate data, compute metrics, create pivot tables, and visualize results.
+
+
+## How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/project_sales.git
+pip install -r requirements.txt
+
+
+
+ 
+
+ 
+ 
+ 
