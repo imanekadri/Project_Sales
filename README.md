@@ -74,16 +74,20 @@ project_sales/
 
 ### Screenshots
 ## Line Chart
-<img width="850" height="470" alt="image" src="https://github.com/user-attachments/assets/6717ac2f-b015-4c43-a769-71dd1088be22" />
+<img width="850" height="470" alt="image" src="https://github.com/user-attachments/assets/54289925-d20b-4582-8217-8a297dd43136" />
+
 
 ## Stacked Bar Chart
-<img width="1023" height="646" alt="image" src="https://github.com/user-attachments/assets/d0eeb121-fbed-4e1f-80d1-03360a526617" />
+<img width="1023" height="646" alt="image" src="https://github.com/user-attachments/assets/ff6eff6d-9d97-4d05-bab1-90b1da9bb726" />
+
 
 ## Heatmap
-<img width="904" height="547" alt="Heatmap" src="https://github.com/user-attachments/assets/c38e116c-93bd-4a05-8c0f-381b61da542d" /> 
+<img width="912" height="547" alt="image" src="https://github.com/user-attachments/assets/4e759d49-0fb4-4732-997f-b1435f53a589" />
+ 
 
 ## Boxplot
-<img width="695" height="528" alt="Boxplot" src="https://github.com/user-attachments/assets/7c3ae384-8cd2-4c42-8430-cc03558a2758" />
+<img width="695" height="528" alt="image" src="https://github.com/user-attachments/assets/4e5c9c5a-6ffa-4a88-bcda-0a428cdd8986" />
+
 
 ### Output Files
 
